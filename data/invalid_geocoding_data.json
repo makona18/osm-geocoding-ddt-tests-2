@@ -1,0 +1,5 @@
+[
+    {"lat": "0.0000", "lon": "0.0000", "expected_error": "No results found"},
+    {"lat": "invalid", "lon": "invalid", "expected_error": "Invalid coordinates"},
+    {"address": "", "expected_error": "No results found"}
+]
